@@ -1,6 +1,5 @@
 /*
-
-						:::: Notes App ::::
+					   ::::: Notes App :::::
 	Tech & Tools : Golang , Gin , Gorm, Mysql , Xampp Server(for MySql)
 	Server runs on port `:3000`
 	DB Connection and settings --> models -> Setup
