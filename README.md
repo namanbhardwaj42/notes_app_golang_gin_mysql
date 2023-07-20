@@ -1,4 +1,4 @@
-# User Notes App writtedn in Golang
+# User Notes App written in Golang
 
 -- Guide --
 
